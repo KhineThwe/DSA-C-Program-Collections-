@@ -90,7 +90,7 @@ int main(){
         printf("3. Find\n");
         printf("4. Print all elements of the stack\n");
         printf("5. Print the top elements of the stack\n");
-        printf("5. Quit\n");
+        printf("6. Quit\n");
         printf("Enter your choice: ");
         scanf("%d",&choice);
 
